@@ -20,3 +20,12 @@ Help investors find listed or potentially available land and evaluate possible f
 ## Status
 
 Early product concept. No deployed platform or validated ROI model is represented here.
+
+
+## Data policy
+
+No fake listings, people, transactions, prices, routes, or sensor readings are included. Data views stay empty until you enter real information or connect a verified source. The app shows concrete integration suggestions where real data is required. Local entries remain in this browser and are not uploaded.
+
+## Run locally
+
+Open `index.html` in a browser. This standalone front-end prototype starts empty with no fabricated records. User-entered items stay in this browser; no backend or live service is connected.
